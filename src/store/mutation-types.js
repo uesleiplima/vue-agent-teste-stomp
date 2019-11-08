@@ -1,0 +1,1 @@
+export const SET_STATUS_CHANNEL = 'SET_STATUS_CHANNEL'
